@@ -1,11 +1,10 @@
-![bkx-blockchain-education-github](https://user-images.githubusercontent.com/3356474/34314177-29174edc-e782-11e7-8efd-1f26e35c3398.png)
 
 # Course01: Basics of smart contracts
 
 
-## This is the BANKEX Foundation training course to provide basics skills, how to work with blockchain technologies 
+## This is the training course to provide basics skills, how to work with blockchain technologies 
 
-### [Russian version of this course](https://github.com/BANKEX/bankex_foundation_education/blob/master/README.md)
+### [Russian version of this course](https://github.com/eugenebolotin/blockchain_edu/blob/master/README.md)
 
 
 
@@ -32,7 +31,7 @@ To complete the course, you do not need to be an experienced programmer - enough
 
 1. To register and send tasks, you need:
 
-1. Make a fork of the repository https://github.com/BankEx/bankex_foundation_education
+1. Make a fork of the repository https://github.com/eugenebolotin/blockchain_edu
 
 1. Create a new folder in your repository, the name of the new folder must match the username of your Github account
 
@@ -40,19 +39,19 @@ To complete the course, you do not need to be an experienced programmer - enough
 
 1. Get it into your repository
 
-1. Make a pull request to the repository https://github.com/BankEx/bankex_foundation_education
+1. Make a pull request to the repository https://github.com/eugenebolotin/blockchain_edu
 
 1. As soon as we accept your Pull Request - you're in! :+1:
 
 ## Contacts:
 
-- For questions / suggestions / improvements, contact [@skywinder](https://github.com/skywinder/):
-[skywinder](www.t.me/skywinder)
+- For questions / suggestions / improvements, contact (https://github.com/RO57/):
+[DR] (www.t.me/Rokit_AI)
 
 - Here is telegram chat where you can discuss your questions:
 [Telegram Chat](https://t.me/joinchat/BQeMJ09hr3kRTiR8yTTuTA). Feel free to contact me with any queries about this course!
 
-- If you have any questions about the course - feel free to open [Issue](https://github.com/BANKEX/bankex_foundation_education/issues/new)
+- If you have any questions about the course - feel free to open [Issue](/https://github.com/eugenebolotin/blockchain_edu/issues/new)
 
 
-- Detailed information with further tasks will be posted in the [Telegram Chat](https://t.me/joinchat/C199gE65M4nTH-omQMr8aw) and available [by the link](https://docs.google.com/document/d/1f7e7bvI0okNhjefN5723x2ijcffZTXEltaOscUPkyCI/edit?usp=sharing)
+- Detailed information with further tasks will be posted in the [Telegram Chat] 
